@@ -6,7 +6,7 @@
 
 3.) Set up your canvas as you wish. For a test, just put some text on it.
 
-4.) Set the direct children of your canvas to have a negative scale. DirectX in Unity renders textures upside down, it's a pain.
+4.) Set the direct children of your canvas to have a negative Y scale. DirectX in Unity renders textures upside down, it's a pain.
 
 5.) (Untested) Set a path for your icon. It doesn't like Resource-based icons so you'll need to provide a real file path, not a Resources.Load path.
 
